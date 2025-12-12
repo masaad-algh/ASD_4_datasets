@@ -14,3 +14,5 @@ adolescent:
 adult:
 [4] F. Thabtah. Autism Screening Adult. UCI Machine Learning Repository, 2017. [Online]. Available: https://doi.org/10.24432/C5F019. (Accessed 31 October 2025)
 
+New clinical dataset Age (2-17):
+Dina Ayman. Autism Spectrum Disorder Symptomatic dataset: For Arab Children[DS/OL]. V3. Science Data Bank, 2025[2025-12-12]. https://cstr.cn/31253.11.sciencedb.20788. CSTR:31253.11.sciencedb.20788.
